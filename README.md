@@ -1,15 +1,9 @@
-# Sistema de Información Web para la Revisión de Portafolios Docentes
+# Sistema de Revisión de Portafolios Docentes
 
 ## Descripción del Proyecto
 
 Este proyecto tiene como objetivo desarrollar un sistema de información web para la revisión de portafolios docentes en el Departamento Académico de Ingeniería Informática (DAII) de la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC). El sistema permitirá gestionar los portafolios, asignar revisores, notificar a los docentes sobre las observaciones o faltas en sus portafolios y generar informes al final de cada revisión.
 
-## Características
-
-- Gestión de portafolios: Los docentes pueden subir sus documentos a la plataforma.
-- Asignación de revisores: Los administradores pueden asignar docentes a un revisor para cada revisión.
-- Notificaciones: El sistema notificará a los docentes si falta algún documento en su portafolio.
-- Generación de informes: Al final de cada revisión, el sistema generará un informe que indica si se ha cumplido o no con lo requerido.
 
 ## Tecnologías
 
@@ -23,17 +17,10 @@ Este proyecto tiene como objetivo desarrollar un sistema de información web par
 
 ## Autores
 
-- Arana Flores Shaiel Almendra
-- Cabrera Mejia Cristian Andy 
-- Callañaupa Sallo Julio Cesar
-- Gallegos Cjuiro Luis Alberto
-- Lima Esperilla Katerine Candy
-- Huerta Medina Vito Jhon
-- Mamani Meza Johana Maria
-- Montañez Choque Willians 
-- Poma Supo Juan Gabriel
-- Reynaga Flores Angela Vanessa
-- Sumire Ccahuana Kevin Aron
+- Garcia Romero Jhonatan Alexander 
+- Quispe Arqque Etner Yury 
+- Rodriguez Pauccara Cristian Diego
+- Suarez Mariscal Marcelo Eduardo 
 
 
 ## Licencia
